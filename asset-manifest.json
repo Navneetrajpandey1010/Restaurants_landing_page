@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Restaurants_landing_page/static/css/main.973fac7a.css",
+    "main.js": "/Restaurants_landing_page/static/js/main.3ca93590.js",
+    "index.html": "/Restaurants_landing_page/index.html",
+    "main.973fac7a.css.map": "/Restaurants_landing_page/static/css/main.973fac7a.css.map",
+    "main.3ca93590.js.map": "/Restaurants_landing_page/static/js/main.3ca93590.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973fac7a.css",
+    "static/js/main.3ca93590.js"
+  ]
+}
